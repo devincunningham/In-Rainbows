@@ -1,1 +1,1 @@
-![alt text](/solidstatelab.jpg?raw=true "Title")
+![alt text](solidstatelab.jpg?raw=true "Title")
