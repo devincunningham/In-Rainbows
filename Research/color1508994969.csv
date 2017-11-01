@@ -1,0 +1,2 @@
+objid,ra,dec,devrad_r,fracdev_r,exprad_r,redshift,modelmag_u,modelmag_g,modelmag_r,modelmag_i,modelmag_z,petrorad_r,petroR50_r,clean
+587741489817256155,126.29202044,16.36593069,0,1,6.811406E-3,8.90741E-4,18.883795,17.73279,17.286242,17.104851,17.043924,0.935956,0.48485,1
